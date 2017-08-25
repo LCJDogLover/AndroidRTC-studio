@@ -25,6 +25,5 @@ Your stream should appear as "android_test" in ProjectRTC, so you can also use t
 ### [libjingle peerconnection](https://code.google.com/p/webrtc/)
 ### [socket.io-client](https://github.com/nkzawa/socket.io-client.java)
 
-## Author
 
-- [Pierre Chabardes](mailto:pierre@chabardes.net)
+
